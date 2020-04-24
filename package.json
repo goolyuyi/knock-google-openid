@@ -1,0 +1,12 @@
+{
+  "name": "knock-google-openid",
+  "version": "0.0.1",
+  "main": "knock-google-openid.js",
+  "license": "MIT",
+  "dependencies": {
+    "knock-openid-schema": ">=0.0.1"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
